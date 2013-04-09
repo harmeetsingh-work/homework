@@ -1,4 +1,4 @@
-package com.example.fitness;
+package com.android.fitness;
 
 import android.os.Bundle;
 import android.app.Activity;
