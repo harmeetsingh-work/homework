@@ -6,6 +6,7 @@
     <string name="menu_settings">Settings</string>
     <string name="title_activity_training_type">Training Type</string>
     <string name="action_settings">Settings</string>
+    <string name="app_id">553536204667212</string>
 
     <string-array name="lstViewTrainingEnteries">
         <item>Personal Trainer</item>
