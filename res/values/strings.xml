@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_training_type">Training Type</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">553536204667212</string>
+
+    <string-array name="lstViewTrainingEnteries">
+        <item>Personal Trainer</item>
+        <item>Training</item>
+        <item>Calendar</item>
+    </string-array>
+    <string-array name="lstViewKBaseEnteries">
+        <item>Base Exercises</item>
+        <item>Product Training</item>
+        <item>Tools</item>
+        <item>Information</item>
+    </string-array>
+    <string-array name="lstViewProfileEnteries">
+        <item>Profile</item>
+        <item>Achievements</item>
+        <item>Journal</item>
+    </string-array>
+
+</resources>

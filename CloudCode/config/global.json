@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Fitness": {
+            "applicationId": "eUcuAgH1XuBizYKYWNxZY2pIjdogk2UUMiBLJguN", 
+            "masterKey": "VFRb4BGNFF0lLDFNuCC4erErh0f4sHNXX3PrwpSt"
+        }, 
+        "_default": {
+            "link": "Fitness"
+        }
+    }
+}
